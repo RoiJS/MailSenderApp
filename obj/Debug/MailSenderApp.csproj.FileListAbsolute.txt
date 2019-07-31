@@ -1,0 +1,14 @@
+C:\Users\Clouduser\Documents\Roi Files\Others\MailSenderApp\MailSenderApp\bin\Debug\MailSenderApp.exe.config
+C:\Users\Clouduser\Documents\Roi Files\Others\MailSenderApp\MailSenderApp\bin\Debug\MailSenderApp.exe
+C:\Users\Clouduser\Documents\Roi Files\Others\MailSenderApp\MailSenderApp\bin\Debug\MailSenderApp.pdb
+C:\Users\Clouduser\Documents\Roi Files\Others\MailSenderApp\MailSenderApp\obj\Debug\MailSenderApp.csprojAssemblyReference.cache
+C:\Users\Clouduser\Documents\Roi Files\Others\MailSenderApp\MailSenderApp\obj\Debug\MailSenderApp.csproj.CoreCompileInputs.cache
+C:\Users\Clouduser\Documents\Roi Files\Others\MailSenderApp\MailSenderApp\obj\Debug\MailSenderApp.exe
+C:\Users\Clouduser\Documents\Roi Files\Others\MailSenderApp\MailSenderApp\obj\Debug\MailSenderApp.pdb
+C:\Users\Clouduser\Documents\Roi Files\Others\MailSender\MailSenderApp\bin\Debug\MailSenderApp.exe.config
+C:\Users\Clouduser\Documents\Roi Files\Others\MailSender\MailSenderApp\bin\Debug\MailSenderApp.exe
+C:\Users\Clouduser\Documents\Roi Files\Others\MailSender\MailSenderApp\bin\Debug\MailSenderApp.pdb
+C:\Users\Clouduser\Documents\Roi Files\Others\MailSender\MailSenderApp\obj\Debug\MailSenderApp.csprojAssemblyReference.cache
+C:\Users\Clouduser\Documents\Roi Files\Others\MailSender\MailSenderApp\obj\Debug\MailSenderApp.csproj.CoreCompileInputs.cache
+C:\Users\Clouduser\Documents\Roi Files\Others\MailSender\MailSenderApp\obj\Debug\MailSenderApp.exe
+C:\Users\Clouduser\Documents\Roi Files\Others\MailSender\MailSenderApp\obj\Debug\MailSenderApp.pdb
